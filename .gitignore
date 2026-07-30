@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+plant_disease_model.h5
+*.h5
